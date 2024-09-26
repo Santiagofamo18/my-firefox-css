@@ -1,0 +1,6 @@
+/* Poner los marcadores centrados */
+
+#PlacesToolbarItems {
+    display: flex !important;
+    justify-content: center !important;
+  }
